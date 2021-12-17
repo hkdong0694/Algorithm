@@ -6,3 +6,4 @@
 - [한수(1065)](https://www.acmicpc.net/problem/1065) / 2021-12-15([풀이코드](https://github.com/hkdong0694/Algorithm/blob/master/src/Problem_1065/Main.java))
 - [셀프 넘버(4673)](https://www.acmicpc.net/problem/4673) / 2021-12-15([풀이코드](https://github.com/hkdong0694/Algorithm/blob/master/src/Problem_4673/Main.java))
 - [블랙잭(2798)](https://www.acmicpc.net/problem/2798) / 2021-12-16([풀이코드](https://github.com/hkdong0694/Algorithm/blob/master/src/Problem_2798/Main.java))
+- [분해합(2231)](https://www.acmicpc.net/problem/2231) / 2021-12-17([풀이코드](https://github.com/hkdong0694/Algorithm/blob/master/src/Problem_2231/Main.java))
