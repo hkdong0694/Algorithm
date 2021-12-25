@@ -28,8 +28,7 @@ public class Main {
         int min = 0;
 
         for(int i=0; i< 2; i++) {
-            int count = chessCheck(i, arr);
-            if(min < count) min = count;
+
         }
 
         bw.write(min + "");
@@ -38,24 +37,4 @@ public class Main {
         br.close();
 
     }
-
-    private static int chessCheck(int i , String arr[][]) {
-        int count = 0;
-        String color = "";
-        if(i == 0) color = "B";
-        else color = "W";
-        String prevColor = "";
-
-        for(int k=0;k<arr.length;k++) {
-            if( k > 0 ) prevColor = arr[k-1][0];
-            else prevColor = color;
-            for(int j = 0; j< arr[k].length; j++) {
-
-            }
-        }
-
-        return count;
-    }
-
-
 }
